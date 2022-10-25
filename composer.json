@@ -1,0 +1,16 @@
+{
+    "name": "carloslincon/buscador-cursos",
+    "description": "Buscando cursos no site da alura",
+    "autoload": {
+        "psr-4": {
+            "Carloslincon\\BuscadorCursos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CarlosLincon",
+            "email": "carloslincon29@gmail.com"
+        }
+    ],
+    "require": {}
+}
